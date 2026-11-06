@@ -1,6 +1,6 @@
 <div align="center">
 
-# gpt-protocol-recharge
+# GPT-Protocol-Recharge-Ads
 
 **中文** | [English](README.en.md)
 
