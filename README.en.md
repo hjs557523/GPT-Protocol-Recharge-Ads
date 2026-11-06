@@ -4,7 +4,7 @@
 
 [中文](README.md) | **English**
 
-### ChatGPT / Codex full-protocol recharge script · Stable PH-region renewal / recharge / subscription
+### ChatGPT / Codex full-protocol direct-card recharge script · Stable PH-region renewal / recharge / subscription
 
 **Full source code delivered. Stop paying middlemen — recharge for yourself, or recharge for others.**<br>
 Pure protocol direct recharge (zero browser), stable PH-region renewal, own the recharge capability once you have the source.
@@ -26,7 +26,7 @@ Pure protocol direct recharge (zero browser), stable PH-region renewal, own the 
 
 ## What is this
 
-A **full-protocol recharge script for ChatGPT / Codex** that completes subscription recharge, renewal and subscription management via pure HTTP protocol (zero browser) — no manual middlemen, no scalpers.
+A **full-protocol direct-card recharge script for ChatGPT / Codex** that completes subscription recharge, renewal and subscription management via pure HTTP protocol (zero browser) — no manual middlemen, no scalpers.
 
 - ✅ **Stable renewal**: PH-region accounts, one-stop renewal / recharge / subscription
 - ✅ **Full source code**: delivered as source, recharge for yourself or for others
